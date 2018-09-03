@@ -1,0 +1,4 @@
+rootProject.name = 'Character'
+
+include ":utility"
+project(":utility").projectDir = file("../StarshipUtility")

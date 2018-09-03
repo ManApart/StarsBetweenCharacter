@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.GridPane?>
+<GridPane fx:id="biomeGrid" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" xmlns="http://javafx.com/javafx/8.0.60" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <Label styleClass="title" stylesheets="@../css/MainMenu.css" text="NothingYet" GridPane.halignment="CENTER" GridPane.rowIndex="1" />
+    </children>
+</GridPane>
